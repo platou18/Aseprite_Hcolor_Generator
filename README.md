@@ -11,8 +11,8 @@ Color Generator for Aseprite with fomular , row modification and save to hex fil
 Usage
 ----
 
-Just select Saturation and Lightness 
-*
+*Just select Saturation and Lightness 
+
 *Use Hue to preview palette row 
 
 *optined Use  Modification
