@@ -1,0 +1,1 @@
+# Aseprite_Hcolor_Generator
