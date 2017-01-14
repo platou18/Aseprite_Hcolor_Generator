@@ -1,13 +1,18 @@
 # Aseprite Color Palette Hex Generator
 Color Generator for Aseprite 
 
+Info
+-----
 preview @ https://htmlpreview.github.io/?https://github.com/platou18/Aseprite_Hcolor_Generator/blob/master/index.html
 
-with fomular , row modification and save to hex file function.
+Color Generator for Aseprite with fomular , row modification and save to hex file function.
+
+----
 
 any suggestion contact planoiilolibuju@gmail.com
 
-Resources Thai use in this.----
+Resources Thai use in this.
+----
 
 Bootstrap https://github.com/twbs/bootstrap
 
