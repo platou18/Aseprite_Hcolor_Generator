@@ -11,21 +11,21 @@ Color Generator for Aseprite with fomular , row modification and save to hex fil
 Usage
 ----
 
-*Just select Saturation and Lightness 
+*>----Just select Saturation and Lightness 
 
-*Use Hue to preview palette row
+*>----Use Hue to preview palette row
 
 ----optined Use  Modification
 
-*Master Formular | palette fomular | Default:10
+*>>-----Master Formular | palette fomular | Default:10
 
-*Color Distance Default:10 | Row in the colorpalette | Default:10
+*>>-----Color Distance Default:10 | Row in the colorpalette | Default:10
 
-*Save to use in Aseprite. There are 2 ways.
+*>----Save to use in Aseprite. There are 2 ways.
 
-*Copy and save in text editor and saveas .hex.
+*>>-----Copy and save in text editor and saveas .hex.
 
-*Hit save button and rename it.
+*>>-----Hit save button and rename it.
 
 ----
 
