@@ -1,1 +1,1 @@
-# Aseprite_Hcolor_Generator
+# Aseprite Color Palette Hex Generator
