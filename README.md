@@ -3,8 +3,7 @@ Color Generator for Aseprite
 
 Info
 -----
-preview @ https://htmlpreview.github.io/?https://github.com/platou18/Aseprite_Hcolor_Generator/blob/master/index.html
-
+preview @ https://platou18.github.io/Aseprite_Hex_color_Generator/
 Color Generator for Aseprite with fomular , row modification and save to hex file function. fomular base on kiwinuptuo's color palette tutorial.
 
 
